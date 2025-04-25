@@ -6,9 +6,8 @@ The script segments the audio into 10s chunks, transcribes them and then produce
 
 Lastly images are composed into a single video with audio added appropriately as shown in the following output examples:
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/b2pfps?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
-![](https://streamable.com/b2pfps)
+https://streamable.com/b2pfps
 
 - [Example Video 1](https://github.com/pdfosborne/dnd-video-recap/blob/main/examples/example_1.mp4)
 - [Example Video 2](https://github.com/pdfosborne/dnd-video-recap/blob/main/examples/example_1.mp4)

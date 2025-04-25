@@ -6,7 +6,7 @@ The script segments the audio into 10s chunks, transcribes them and then produce
 
 Lastly images are composed into a single video with audio added appropriately as shown in the following output example:
 
-https://rawcdn.githack.com/pdfosborne/dnd-video-recap/e5270f2961a209034b70d61b26352af2c7292841/examples/example_2.mp4
+![Example Output](https://rawcdn.githack.com/pdfosborne/dnd-video-recap/e5270f2961a209034b70d61b26352af2c7292841/examples/example_2.mp4)
 
 I would suggest asking images for no more than 10 segments at a time at this stage. The code is experimental as a proof of concept and need significant further development.
 

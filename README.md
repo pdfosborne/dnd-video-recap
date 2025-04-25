@@ -4,13 +4,9 @@ This script segments audio recordings and transcribes them using OpenAI's Whispe
 
 The script segments the audio into 10s chunks, transcribes them and then produces an image with OpenAI's new API method.
 
-Lastly images are composed into a single video with audio added appropriately as shown in the following output examples:
+Lastly images are composed into a single video with audio added appropriately as shown in the following [**example video**](https://streamable.com/b2pfps).
 
-
-https://streamable.com/b2pfps
-
-- [Example Video 1](https://github.com/pdfosborne/dnd-video-recap/blob/main/examples/example_1.mp4)
-- [Example Video 2](https://github.com/pdfosborne/dnd-video-recap/blob/main/examples/example_1.mp4)
+More demos are given in examples.
 
 I would suggest asking images for no more than 10 segments at a time at this stage. The code is experimental as a proof of concept and need significant further development.
 

@@ -4,7 +4,7 @@ This script segments audio recordings and transcribes them using OpenAI's Whispe
 
 The script segments the audio into 10s chunks, transcribes them and then produces an image with OpenAI's new API method.
 
-Lastly images are composed into a single video with audio added appropriately as shown in the following [**example video**](https://streamable.com/b2pfps).
+Lastly images are composed into a single video with audio added appropriately as shown in the following [**example video**](https://youtu.be/k8tsXx1lR80).
 
 More demos are given in examples.
 
